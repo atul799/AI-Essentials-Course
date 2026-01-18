@@ -1,2 +1,2 @@
 # AI-Essentials-Course
-Course taught thriugh teentechmunich e.v. intiative
+Course taught through teentechmunich e.v. intiative
